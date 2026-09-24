@@ -31,3 +31,11 @@
 - Al retomar en el otro computador (ej. tras hacer `git pull` o cuando el usuario diga "continuemos" o "retomamos"):
   - Leer automáticamente `CURRENT_TASK.md` si existe en el proyecto.
   - Informar al usuario brevemente del estado anterior y proponer inmediatamente los siguientes pasos para continuar.
+
+## Documentos e Integración con Google Drive
+- Carpeta base sincronizada: `G:\Mi unidad\Antigravity_Docs\` (o la unidad de Google Drive correspondiente).
+- Al generar informes, análisis, presentaciones o documentos que no sean código:
+  - Usar `.docx` (formato compatible nativo con Google Docs) o `.pptx` (Google Slides) según corresponda.
+  - Guardar directamente en `G:\Mi unidad\Antigravity_Docs\` para sincronización automática en la nube.
+  - Esto permite consultarlos y editarlos directamente en Google Docs/Slides y en Gemini web (`gemini.google.com`) mediante `@Google Drive`.
+
