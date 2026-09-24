@@ -18,8 +18,8 @@
 - [ ] Iniciar la creación de informes, presentaciones o proyectos según lo que requieras.
 
 ## Archivos Modificados Recientemente
-- `GEMINI.md`: Se agregó la directriz de documentos e integración con Google Drive (`G:\Mi unidad\Antigravity_Docs\`).
-- `CURRENT_TASK.md`: Actualización de estado y comandos de traspaso para el Notebook.
+- `GEMINI.md`: Se agregó directriz estricta de formato e informes (.docx): estilo Google Docs sobrio y universitario, fuente Arial, color negro puro, sin cajas de colores ni adornos excesivos.
+- `CURRENT_TASK.md`: Registro de la actualización de directriz de diseño.
 
 ## Pruebas, Errores Pendientes o Comandos por Ejecutar (En el Notebook)
 1. Abrir terminal en la carpeta del repositorio en el notebook:

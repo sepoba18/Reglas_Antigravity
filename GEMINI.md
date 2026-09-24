@@ -38,4 +38,17 @@
   - Usar `.docx` (formato compatible nativo con Google Docs) o `.pptx` (Google Slides) según corresponda.
   - Guardar directamente en `G:\Mi unidad\Antigravity_Docs\` para sincronización automática en la nube.
   - Esto permite consultarlos y editarlos directamente en Google Docs/Slides y en Gemini web (`gemini.google.com`) mediante `@Google Drive`.
+- **Estilo y formato obligatorio para informes (.docx):**
+  - Mantener un estilo sobrio, formal y limpio, idéntico al estándar de los informes de Google Docs y ámbito universitario (USS).
+  - Prohibido agregar adornos estéticos excesivos: sin cajas de colores, sin fondos celestes/azules, sin sombras ni líneas divisorias cromáticas.
+  - Tipografía: Fuente Arial en todo el documento.
+  - Color de texto: Estrictamente negro (#000000) o automático. Cero fuentes en azul o colores decorativos.
+  - Jerarquía de tamaños:
+    - Título principal: Arial 18 pt, Negrita, Negro.
+    - Encabezados principales (H1): Arial 14 pt, Negrita, Negro.
+    - Subtítulos / Subsecciones (H2): Arial 12 pt, Negrita, Negro.
+    - Cuerpo de texto: Arial 11 pt, Regular, Negro, interlineado 1.15, espaciado posterior 6 pt.
+  - Código o comandos: Consolas 10 pt, negro, con sangría simple.
+  - Tablas: Bordes sencillos negros o grises delgados, encabezado en negrita, fondo blanco o neutro, sin rellenos llamativos.
+
 
