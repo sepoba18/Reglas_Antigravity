@@ -20,16 +20,21 @@
 - [ ] En el Notebook: Copiar `Reglas_Antigravity\GEMINI.md` a `C:\Users\<tu-usuario>\.gemini\GEMINI.md`.
 - [ ] Iniciar la creación de informes, presentaciones o proyectos según lo que requieras.
 
-## Archivos y Rutas Relevantes
-- `GEMINI.md`: Reglas del proyecto, protocolo de traspaso y directrices de Google Drive.
-- `CURRENT_TASK.md`: Control y registro de estado entre equipos.
-- `G:\Mi unidad\Antigravity_Docs\`: Carpeta en la nube donde Antigravity guarda informes y presentaciones.
-  - `Prueba_Antigravity.docx`: Documento de prueba compatible con Google Docs.
-  - `Prueba_Presentacion_Antigravity.pptx`: Presentación de prueba compatible con Google Slides.
+## Archivos Modificados Recientemente
+- `GEMINI.md`: Se agregó la directriz de documentos e integración con Google Drive (`G:\Mi unidad\Antigravity_Docs\`).
+- `CURRENT_TASK.md`: Actualización de estado y comandos de traspaso para el Notebook.
 
-## Comandos Útiles
-- Generar o probar documentos en Drive:
-  ```bash
-  python -c "import docx, pptx; print('Librerias listas')"
-  ```
+## Pruebas, Errores Pendientes o Comandos por Ejecutar (En el Notebook)
+1. Abrir terminal en la carpeta del repositorio en el notebook:
+   ```bash
+   cd Reglas_Antigravity
+   git pull
+   ```
+2. En Antigravity del notebook, simplemente decir:
+   > *"Continuemos"* (o *"Retomamos"*)
+3. Instalar librerías de documentos en Python (si no están):
+   ```bash
+   pip install python-pptx python-docx
+   ```
+4. Instalar y verificar que Google Drive para Escritorio esté montado en `G:\Mi unidad`.
 
