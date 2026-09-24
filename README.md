@@ -1,10 +1,10 @@
-# mi-proyecto
+# Reglas_Antigravity
 
 Estructura de proyecto sincronizada para **Google Antigravity** entre Laptop y PC de Escritorio.
 
 ## Estructura
 ```text
-mi-proyecto/
+Reglas_Antigravity/
 ├── .git/
 ├── .gitignore                    # Ignora archivos temporales y secretos
 ├── GEMINI.md                     # Reglas del proyecto y protocolo de traspaso
