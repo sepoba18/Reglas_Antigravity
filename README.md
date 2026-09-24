@@ -9,6 +9,7 @@ Reglas_Antigravity/
 ├── .gitignore                    # Ignora archivos temporales y secretos
 ├── GEMINI.md                     # Reglas del proyecto y protocolo de traspaso
 ├── CURRENT_TASK.md               # Archivo de traspaso de contexto entre PCs
+├── GUIA_GIT.md                   # Resumen práctico de Git y creación de repos con gh
 ├── README.md
 └── .agents/
     └── skills/                   # Skills compartidas del proyecto
