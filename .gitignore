@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Antigravity y sesiones locales
+.gemini/antigravity/brain/
+.gemini/antigravity/scratch/
+*.log
+
+# Secretos y variables de entorno
+.env
+.env.local
+*.local
