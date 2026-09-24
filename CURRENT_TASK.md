@@ -8,13 +8,13 @@
 - [x] Incorporación de la regla obligatoria permanente de formato de informes en `GEMINI.md` (estilo Google Docs sobrio, fuente Arial, negro puro, sin cajas de colores ni adornos).
 - [x] Re-generación del informe de Git en `G:\Mi unidad\Antigravity_Docs\Guia_Rapida_Git_y_GitHub.docx` con el estándar formal y limpio listo para imprimir.
 
-## Tareas y Pasos Específicos Pendientes (Al llegar al PC de Escritorio)
-- [ ] En el PC de escritorio: Abrir la terminal en la carpeta `Reglas_Antigravity` y ejecutar:
-  ```bash
-  git pull
-  ```
-- [ ] En el PC de escritorio: Actualizar el archivo global `C:\Users\<usuario>\.gemini\GEMINI.md` con las nuevas reglas descargadas (o pedirle al agente en Antigravity: *"Actualiza mi GEMINI.md global"*).
-- [ ] En el PC de escritorio: Abrir `G:\Mi unidad\Antigravity_Docs\Guia_Rapida_Git_y_GitHub.docx` para imprimirlo.
+## Tareas Completadas en la Sesión Actual (PC de Escritorio)
+- [x] Sincronización de reglas con `git pull`.
+- [x] Actualización de la configuración global `C:\Users\seban\.gemini\GEMINI.md`.
+- [x] Incorporación oficial de la **Capa B (Seguridad y Restricciones de Archivos)** en `GEMINI.md`: prohibición estricta de borrar archivos (`Remove-Item`, `del`, `rm`, `git clean`, etc.) sin confirmación explícita previa del usuario.
+
+## Tareas y Pasos Específicos Pendientes
+- [ ] En el notebook: Hacer `git pull` la próxima vez que se use para recibir la sección de restricciones de archivos en `GEMINI.md`.
 - [ ] Continuar con el siguiente proyecto o tarea planificada.
 
 ## Archivos y Funciones Modificadas Recientemente

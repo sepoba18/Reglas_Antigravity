@@ -18,6 +18,12 @@
 - Explica brevemente los cambios que hagas.
 - Si hay un error, muestra el error completo antes de proponer la solución.
 
+## Seguridad y Restricciones de Archivos (Capa B)
+- Está estrictamente prohibido ejecutar comandos de eliminación de archivos o carpetas (`Remove-Item`, `del`, `rm`, `rmdir`, `rd`, `git clean`, `git reset --hard`, etc.) sin autorización previa y explícita del usuario en el chat.
+- Prohibido sobrescribir o vaciar destructivamente archivos existentes sin confirmación expresa.
+- Si alguna tarea requiere eliminar, limpiar o descartar archivos o cambios, debes pausar, explicar detalladamente qué archivos se verían afectados y esperar la confirmación del usuario antes de ejecutar cualquier acción.
+
+
 ## Sincronización y Traspaso de Equipos (Laptop <-> PC Escritorio)
 - Cuando el usuario indique que cambiará de equipo (ej. "me paso al PC", "voy al notebook", "guarda el avance", "traspaso"):
   1. **Actualizar estado**: Crear o actualizar un archivo `CURRENT_TASK.md` en la raíz del proyecto activo resumiendo:
