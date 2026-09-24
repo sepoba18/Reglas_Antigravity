@@ -10,14 +10,11 @@
 - [x] Configuración de librerías para generación de documentos: `python-docx` (Google Docs) y `python-pptx` (Google Slides).
 - [x] Pruebas exitosas de generación de documentos `.docx` y `.pptx` en Google Drive y actualización de `GEMINI.md`.
 
-## Tareas y Pasos Específicos Pendientes (Para replicar en el Notebook)
-- [ ] En el Notebook: Descargar e instalar **Google Drive para Escritorio** con la misma cuenta de Google.
-- [ ] En el Notebook: Instalar librería de presentaciones:
-  ```bash
-  pip install python-pptx
-  ```
-- [ ] En el Notebook: Hacer `git pull` en la carpeta `Reglas_Antigravity` para recibir las nuevas reglas.
-- [ ] En el Notebook: Copiar `Reglas_Antigravity\GEMINI.md` a `C:\Users\<tu-usuario>\.gemini\GEMINI.md`.
+## Tareas y Pasos Específicos Pendientes
+- [x] En el Notebook: Google Drive para Escritorio verificado y montado en `G:\Mi unidad\Antigravity_Docs\`.
+- [x] En el Notebook: Librerías `python-pptx` y `python-docx` verificadas e instaladas.
+- [x] En el Notebook: `git pull` ejecutado exitosamente en `Reglas_Antigravity`.
+- [x] En el Notebook: Reglas actualizadas en `C:\Users\seban\.gemini\GEMINI.md`.
 - [ ] Iniciar la creación de informes, presentaciones o proyectos según lo que requieras.
 
 ## Archivos Modificados Recientemente
